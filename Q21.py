@@ -17,10 +17,8 @@ def showGrades(S):
 
 # Example usage:
 S = {
-    "Alice": [95, 85, 92],
-    "Bob": [58, 77, 65],
-    "Charlie": [45, 55, 50],
-    "Diana": [89, 90, 60]
+    "Rudhra": [95, 85, 92],
+    "Shadab": [58, 77, 65],   
 }
 
 showGrades(S)
